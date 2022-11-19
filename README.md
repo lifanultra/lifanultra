@@ -1,7 +1,7 @@
-### Hi , I am LiFan ,and nice to meet you . 👋
+### Hello , world . 👋
 
 - 💬哈嘍你好，朋友，歡迎來訪我的站點。
-- 
+
 - 🌱 近期學習 ： Python & C & Html/Css & JavaScript.
 - 🤔 Notion   ：https://ncstlifan.site/
 - 🔭 GitHub   ：https://github.com/lifan02/
