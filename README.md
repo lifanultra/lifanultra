@@ -1,6 +1,5 @@
-### Hello , world . 👋
 
-- 💬哈嘍你好，朋友，歡迎來訪我的站點。
+- 💬### Hi , I am LiFan . 👋
 
 - 🌱 方  向   ： Python & C & Html/Css & JavaScript  
 - 🤔 Notion   ：https://ncstlifan.site/
