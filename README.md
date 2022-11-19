@@ -1,6 +1,5 @@
-
-- 💬### Hi , I am LiFan . 👋
-
+### Hi ， I Am Here .
+- 👋哈嘍你好
 - 🌱 方  向   ： Python & C & Html/Css & JavaScript  
 - 🤔 Notion   ：https://ncstlifan.site/
 - 🔭 GitHub   ：https://github.com/lifan02/
