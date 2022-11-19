@@ -2,7 +2,7 @@
 
 - 💬哈嘍你好，朋友，歡迎來訪我的站點。
 
-- 🌱 近期學習 ： Python & C & Html/Css & JavaScript.
+- 🌱 一位 Python & C & Html/Css & JavaScript 入門級選手 .
 - 🤔 Notion   ：https://ncstlifan.site/
 - 🔭 GitHub   ：https://github.com/lifan02/
 - ⚡ My Blog  ：http://lifan.ccaeo.com/
