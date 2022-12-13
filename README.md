@@ -3,7 +3,7 @@
 ###   👋 Hi , I am Lifan .
 
 - 😄  ⭐學習新思想，爭做新青年。⭐   
-   
+   <!-- more -->
 - 🌱  方  向  Python & C & Html/Css 
 - 🌱  引导页  https://ncstlifan.github.io/ 
 - 🤔  Notion  https://ncstlifan.site/
