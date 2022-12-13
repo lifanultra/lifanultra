@@ -1,7 +1,7 @@
 ---
 
 ###   👋 Hi , I am Lifan .
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ncstlifan" /> </div>
 ⭐學習新思想，爭做新青年。⭐   
    <!-- more -->
 - 🌱  方  向  Python & C & Html/Css 
