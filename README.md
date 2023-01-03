@@ -1,18 +1,17 @@
 ---
 
-###   👋 Hi , I am Lifan .
+###   👋 Hi , I am [Lifan](https://github.com/ncstlifan) .
 
-⭐学习新思想，争做新青年。⭐   
+⭐学习新思想，争做新青年。⭐
+
    <!-- more -->
-- 🌱  方  向  Python & C & Html/Css 
-- 😄  引导页  https://ncstlifan.github.io/ 
-- 🤔  Notion  https://ncstlifan.site/
-- 🔭  GitHub  https://github.com/ncstlifan/
-- ⚡  MyBlog  http://lifan.ccaeo.com/  
-   
-- 📫  微信公众号 `华理幼稚园`  →  `lifancome`
-- 📫  欢迎致信邮箱 `erzhonglifan@Gmail.com  `
+
+- 😄[引导页](https://ncstlifan.github.io/)  🔭[GitHub](https://github.com/ncstlifan/) 🤔[Notion](https://ncstlifan.site/) ⚡[博客](http://lifan.ccaeo.com/) </br>
+
+- 📫  微信公众号 `华理幼稚园`  →  `lifancome`📫  [欢迎致信邮箱](mailto:erzhonglifan@Gmail.com)</br>
+
 
 ---
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ncstlifan" /> </div>
+
