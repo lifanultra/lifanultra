@@ -2,7 +2,7 @@
 
 ###   👋 Hi , I am Lifan .
 
-⭐學習新思想，爭做新青年。⭐   
+⭐学习新思想，争做新青年。⭐   
    <!-- more -->
 - 🌱  方  向  Python & C & Html/Css 
 - 😄  引导页  https://ncstlifan.github.io/ 
@@ -10,8 +10,8 @@
 - 🔭  GitHub  https://github.com/ncstlifan/
 - ⚡  MyBlog  http://lifan.ccaeo.com/  
    
-- 📫  微信公衆號 `华理幼稚园`  →  `lifancome`
-- 📫  歡迎致信郵箱 `erzhonglifan@Gmail.com  `
+- 📫  微信公众号 `华理幼稚园`  →  `lifancome`
+- 📫  欢迎致信邮箱 `erzhonglifan@Gmail.com  `
 
 ---
 
