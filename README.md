@@ -13,7 +13,7 @@
 &emsp;
 
 - <br>
-1.😄[导航](https://ncst.eu.org/) &nbsp;&nbsp; 2.🤔[Notion]([https://ncstlifan.site/](https://lifan02.notion.site/28c40373019a4bc186df33e0ca0d6f99)) &nbsp;&nbsp;3.⚡[博客](https://ncstlifan.gitee.io/ncstlifan.gitee.io/) 
+1.😄[导航](https://ncst.eu.org/) &nbsp;&nbsp; 2.🤔[Notion](https://lifan02.notion.site/28c40373019a4bc186df33e0ca0d6f99) &nbsp;&nbsp;3.⚡[博客](https://ncstlifan.gitee.io/ncstlifan.gitee.io/) 
 </br>
 
 
