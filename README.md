@@ -17,8 +17,6 @@
 
 👉👉👉[点我查看我的所有小站](./resource/url_release.md)
 
-</br>
-
 ---
 </br>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ncstlifan" /> </div>
