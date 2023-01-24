@@ -15,6 +15,7 @@
 6.📫[致信邮箱](mailto:erzhonglifan@Gmail.com)
 </br></br>
 
+👉👉[点我查看我的精选：resources](https://github.com/ncstlifan/resources)
 👉👉👉[点我查看我的所有小站](./resource/url_release.md)
 
 ---
