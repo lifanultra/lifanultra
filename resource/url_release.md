@@ -28,21 +28,17 @@
 
 
 
-**域名解析** 	`ncstlifan.pages.dev` *Ⅲ→Ⅱ*
+**域名解析** 	`ncstlifan.pages.dev` *Ⅲ→Ⅱ*	**内容**：我的博客  实时更新
 
 ---
 
 ### 站点4：==搜索导航==
 
-**域名解析**	`lifansearch.pages.dev`*Ⅰ→Ⅱ*
+**域名解析**	`lifansearch.pages.dev`*Ⅰ→Ⅱ*	**内容**：搜索导航  暂停更新
 
 ---
 
-Ⅰ Github
-
-Ⅱ cloudfare
-
-Ⅲ Gitee
+Ⅰ Github	Ⅱ cloudfare	Ⅲ Gitee
 
 ---
 
