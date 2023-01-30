@@ -1,17 +1,14 @@
 ---
 <!--空行-->
-###   👋 Hi , I am [Lifan](https://github.com/ncstlifan) .
+###   👋 Hi , I am [Lifan](https://github.com/ncstlifan) . 
+##### 👋[来联系我叭](./resource/contact.md)
 </br>
-⭐學習新思想，爭做新青年。⭐
-</br>
-</br>
-<!--Part1-->
 
+<!--Part1-->
 1.😄[我的主頁](https://ncst.eu.org/) &nbsp;&nbsp; </br>
 2.🤔[我的精選：resources](https://github.com/ncstlifan/resources)&nbsp;&nbsp;</br>
-3.🤔[我的所有小站](./resource/url_release.md) &nbsp;&nbsp;</br>
-4.🤔[来联系我](./resource/contact.md)
-
+3.🤔[我的所有小站](./resource/url_release.md) &nbsp;&nbsp;</br></br>
+⭐學習新思想，爭做新青年。⭐
 </br>
 
 ---
