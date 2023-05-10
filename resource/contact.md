@@ -2,9 +2,9 @@
 
 
 
-1. 📫[致信郵箱](mailto:erzhonglifan@Gmail.com)
+1. 📫[致信郵箱](mailto:lifan@ncst.eu.org)
 
-2. 📫[我的TG电报](t.me/ncstlifan)
+2. 📫[我的TG电报](https://t.me/ncstlifan)
 
 3. 📫[我的微博](https://weibo.com/6623435006)
 
