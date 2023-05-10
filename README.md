@@ -14,6 +14,6 @@
 ---
 </br>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ncstlifan.ncstlifan" /></div>
+<div align="center"> <img src="[https://visitor-badge.glitch.me/badge?page_id=ncstlifan.ncstlifan](https://visitor-badge.glitch.me/badge?page_id=ncstlifan.ncstlifan&left_color=green&right_color=red)" /></div>
 
 </br>
