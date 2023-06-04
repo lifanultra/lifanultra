@@ -4,7 +4,7 @@
 
 ### 站点1 ：==主引导页==
 
-**域名解析**	`ncst.eu.org` *Ⅰ*	`ncstlifan.site` Ⅰ→*Ⅱ*	` lifan.pages.dev`*Ⅰ→Ⅱ*
+**域名解析**	`lifan.icu`
 
 ---
 
@@ -28,13 +28,12 @@
 
 
 
-**域名解析** 	`ncstlifan.pages.dev` *Ⅲ→Ⅱ*	**内容**：我的博客  实时更新
+**域名解析** 	`https:ncst.eu.org` *Ⅲ→Ⅱ*	**内容**：我的博客  实时更新
 
----
 
-### 站点4：==搜索导航==
+**域名解析** 	`https:moment.eu.org` *Ⅲ→Ⅱ*	**内容**：我的Notion  实时更新
 
-**域名解析**	`lifansearch.pages.dev`*Ⅰ→Ⅱ*	**内容**：搜索导航  暂停更新
+
 
 ---
 
