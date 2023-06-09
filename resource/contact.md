@@ -2,7 +2,7 @@
 
 
 
-1. 📫[致信郵箱](mailto://###)
+1. 📫[致信郵箱](mailto:admin@lifan.icu)
 
 2. 📫[我的TG电报](https://t.me/ncstlifan)
 
