@@ -15,6 +15,3 @@ I am [Lifan](https://hi.lifan.icu) 。
 ⭐學習新思想，爭做新青年。⭐
 </br>
 
----
-
-</br>
